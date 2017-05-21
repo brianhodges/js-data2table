@@ -1,4 +1,4 @@
-# Output Data Object(s)/Array(s) into Formatted Table (JS)
+# Output Data Object/Array into Formatted Table (JS)
 Just a project more for myself to refer back to when working on future Javascript/JQuery projects. Outputs an array of objects into a formatted terminal table.
 
 # Setup
@@ -8,4 +8,4 @@ Just a project more for myself to refer back to when working on future Javascrip
   cd js-data2table
   node data2table.js
   ```
-*Data will instantly output formatted to Terminal* 
+*Data will instantly output formatted to Terminal/Console* 
